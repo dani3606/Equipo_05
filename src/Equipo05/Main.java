@@ -15,5 +15,8 @@ public class Main {
     public static boolean esDivisiblePorCinco(int numero) {
         return numero % 5 == 0;
     }
+	public static boolean esPar (int numero){
+		return numero %2 == 0;
+	}
 }
 
