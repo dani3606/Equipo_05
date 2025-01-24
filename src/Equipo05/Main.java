@@ -12,4 +12,8 @@ public class Main {
 		return numero %3 = 0;
 	}
 
+    public static boolean esDivisiblePorCinco(int numero) {
+        return numero % 5 == 0;
+    }
 }
+
